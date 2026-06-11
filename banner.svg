@@ -1,0 +1,33 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="420" fill="#0D1117"/>
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0%" stop-color="#ED1C24"/>
+<stop offset="100%" stop-color="#58A6FF"/>
+</linearGradient>
+</defs>
+
+<circle cx="1400" cy="80" r="220" fill="#ED1C24" opacity="0.08"/>
+<circle cx="200" cy="340" r="180" fill="#58A6FF" opacity="0.08"/>
+
+<g stroke="#ED1C24" stroke-width="2" opacity="0.45">
+<line x1="0" y1="80" x2="1600" y2="80"/>
+<line x1="0" y1="340" x2="1600" y2="340"/>
+<line x1="150" y1="0" x2="150" y2="420"/>
+<line x1="1450" y1="0" x2="1450" y2="420"/>
+</g>
+
+<rect x="520" y="120" width="560" height="180" rx="12" fill="none" stroke="url(#g)" stroke-width="4"/>
+
+<text x="800" y="180" font-size="52" text-anchor="middle" fill="#FFFFFF" font-family="Arial" font-weight="bold">
+ALI MEHRPOOYA
+</text>
+
+<text x="800" y="235" font-size="24" text-anchor="middle" fill="#C9D1D9" font-family="Arial">
+FPGA • RFSoC • Embedded Linux • SDR • AI Acceleration
+</text>
+
+<text x="800" y="275" font-size="18" text-anchor="middle" fill="#58A6FF" font-family="Arial">
+AMD Adaptive Computing | DSP | Communications Systems
+</text>
+</svg>
