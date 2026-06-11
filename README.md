@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/banner.svg" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 # Ali Mehrpooya
 
